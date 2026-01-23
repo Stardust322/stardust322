@@ -1,3 +1,4 @@
+# 💫 Stardust | AI & InfoSecurity Dev.
 <h1 align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Stardust&fontSize=90&animation=fadeIn&fontAlignY=38" />
 </h1>
