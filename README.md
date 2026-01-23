@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Focus-Information%20Security-red?style=flat-square&logo=linux&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=stardust322&label=Profile%20views&color=0e75b6&style=flat-square" alt="stardust322" />
   <a href="https://solved.ac/profile/stardust3292"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=stardust3292" height="25" /></a>
-  <a href="https://tryhackme.com/p/stardust322" target="blank"><img src="https://img.shields.io/badge/TryHackMe-212C42%3Fstyle%3Dflat-square%26logo%3Dtryhackme%26logoColor%3Dwhite" /></a>
+  <a href="https://tryhackme.com/p/Stardust322" target="blank"><img src="https://img.shields.io/badge/TryHackMe-212C42%3F?style=flat-square&logo=tryhackme&logoColor=white" /></a>
 </p>
 
 ### 👨‍💻 About Me
