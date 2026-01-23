@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Major-Artificial%20Intelligence-blue?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Information%20Security-red?style=flat-square&logo=linux&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=stardust322&label=Profile%20views&color=0e75b6&style=flat-square" alt="stardust322" />
-  <a href="https://solved.ac/stardust322"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=stardust322" height="25" /></a>
+  <a href="https://solved.ac/stardust3292"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=stardust3292" height="25" /></a>
   <img src="https://komarev.com/ghpvc/?username=stardust322&label=Profile%20views&color=0e75b6&style=flat-square" alt="stardust322" />
 </p>
 
