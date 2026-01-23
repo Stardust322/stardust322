@@ -11,7 +11,8 @@
 ```python
 class Stardust:
     def __init__(self):
-        self.major    = "Artificial Intelligence"
+        self.univ     = "SoongSil University."
+        self.major    = "Artificial Intelligence Convergence"
         self.focus    = "Information Security"
         self.location = "South Korea"
         self.goal     = "Building Secure & Intelligent Systems"
