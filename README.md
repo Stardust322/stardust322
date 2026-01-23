@@ -4,6 +4,8 @@
   <img src="https://img.shields.io/badge/Major-Artificial%20Intelligence-blue?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Information%20Security-red?style=flat-square&logo=linux&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=stardust322&label=Profile%20views&color=0e75b6&style=flat-square" alt="stardust322" />
+  <a href="https://solved.ac/stardust322"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=stardust322" height="25" /></a>
+  <img src="https://komarev.com/ghpvc/?username=stardust322&label=Profile%20views&color=0e75b6&style=flat-square" alt="stardust322" />
 </p>
 
 ### 👨‍💻 About Me
@@ -17,6 +19,7 @@ class Stardust:
         self.location = "South Korea"
         self.goal     = "Building Secure & Intelligent Systems"
         self.motto    = "Secure the Intelligence, Intelligent the Security."
+        self.certifications = ["ADsP", "COS Pro 1급", "TOPCIT 3", "MOS Excel", "프로그래밍기능사", ]
 
     def current_status(self):
         return ["Learning Cryptography", "Deep Learning Research", "Penetration Testing"]
