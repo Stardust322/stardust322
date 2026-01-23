@@ -1,7 +1,4 @@
 # 💫 Stardust | AI & InfoSecurity Dev.
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Stardust&fontSize=90&animation=fadeIn&fontAlignY=38" />
-</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Major-Artificial%20Intelligence-blue?style=flat-square&logo=python&logoColor=white" />
