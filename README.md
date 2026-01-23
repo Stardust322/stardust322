@@ -33,8 +33,8 @@ class Stardust:
 ### 🌐 Web & Mobile
 <p align="left"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dflat-square%26logo%3Djavascript%26logoColor%3Dblack"/> <img src="https://www.google.com/search?q=https://img.shields.io/badge/TypeScript-3178C6%3Fstyle%3Dflat-square%26logo%3Dtypescript%26logoColor%3Dwhite"/> <img src="https://www.google.com/search?q=https://img.shields.io/badge/React-61DAFB%3Fstyle%3Dflat-square%26logo%3Dreact%26logoColor%3Dblack"/> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Flutter-02569B%3Fstyle%3Dflat-square%26logo%3Dflutter%26logoColor%3Dwhite"/> </p>
 
-###📊 GitHub Stats
+### 📊 GitHub Stats
 <p align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dstardust322%26show_icons%3Dtrue%26theme%3Dradical" alt="stardust322" height="180px" /> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3Dstardust322%26show_icons%3Dtrue%26locale%3Den%26layout%3Dcompact%26theme%3Dradical" alt="stardust322" height="180px" /> </p>
 
-📱 Connect with me
+### 📱 Connect with me
 <p align="left"> <a href="https://instagram.com/i_dealize21" target="blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
