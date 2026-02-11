@@ -55,10 +55,10 @@ class Stardust:
 ### 📊 GitHub Stats
 <p align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=vue-dark&fontFamily=42dot%20Sans&preferLogin=false">
-    <img  alt="Stardust322's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Stardust322?cardType=github&theme=vue-dark&fontFamily=42dot%20Sans&preferLogin=false" />
+    <img  alt="Stardust322's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Stardust322?cardType=github&theme=vue-dark&fontFamily=42dot%20Sans&preferLogin=false" height=32% width=32% />
   </a>
   <a href="https://solved.ac/profile/stardust3292">
-    <img  alt="Stardust322's GitHub Stats" src="http://mazassumnida.wtf/api/generate_badge?boj=stardust3292" height=41% width=41% />
+    <img  alt="Stardust322's GitHub Stats" src="http://mazassumnida.wtf/api/generate_badge?boj=stardust3292" height=30% width=30% />
   </a>
 </p>
 
