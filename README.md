@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/Major-Artificial%20Intelligence-blue?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Information%20Security-red?style=flat-square&logo=linux&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=stardust322&label=Profile%20views&color=0e75b6&style=flat-square" alt="stardust322" />
-  <a href="https://solved.ac/profile/stardust3292"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=stardust3292" height="25" /></a>
   <a href="https://tryhackme.com/p/Stardust322" target="blank"><img src="https://img.shields.io/badge/TryHackMe-212C42%3F?style=flat-square&logo=tryhackme&logoColor=white" /></a>
 </p>
 
@@ -61,10 +60,6 @@ class Stardust:
   <a href="https://solved.ac/stardust3292">
     <img  alt="Stardust322's GitHub Stats" src="http://mazassumnida.wtf/api/generate_badge?boj=stardust3292" />
   </a>
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=stardust3292)](https://solved.ac/stardust3292)
-  <img src="https://github-readme-stats.vercel.app/api?username=stardust322&show_icons=true&theme=radical" alt="stardust322" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stardust322&show_icons=true&locale=en&layout=compact&theme=radical" alt="stardust322" height="180px" />
 </p>
 
 ### 📱 Connect with me
