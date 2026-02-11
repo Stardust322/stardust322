@@ -58,7 +58,7 @@ class Stardust:
     <img  alt="Stardust322's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Stardust322?cardType=github&theme=vue-dark&fontFamily=42dot%20Sans&preferLogin=false" />
   </a>
   <a href="https://solved.ac/profile/stardust3292">
-    <img  alt="Stardust322's GitHub Stats" src="http://mazassumnida.wtf/api/generate_badge?boj=stardust3292" height=70% width=70% />
+    <img  alt="Stardust322's GitHub Stats" src="http://mazassumnida.wtf/api/generate_badge?boj=stardust3292" height=30% width=30% />
   </a>
 </p>
 
