@@ -58,6 +58,11 @@ class Stardust:
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=vue-dark&fontFamily=42dot%20Sans&preferLogin=false">
     <img  alt="Stardust322's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Stardust322?cardType=github&theme=vue-dark&fontFamily=42dot%20Sans&preferLogin=false" />
   </a>
+  <a href="https://solved.ac/stardust3292">
+    <img  alt="Stardust322's GitHub Stats" src="http://mazassumnida.wtf/api/generate_badge?boj=stardust3292" />
+  </a>
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=stardust3292)](https://solved.ac/stardust3292)
   <img src="https://github-readme-stats.vercel.app/api?username=stardust322&show_icons=true&theme=radical" alt="stardust322" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stardust322&show_icons=true&locale=en&layout=compact&theme=radical" alt="stardust322" height="180px" />
 </p>
