@@ -55,6 +55,7 @@ class Stardust:
 
 ### 📊 GitHub Stats
 <p align="center">
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Stardust322?cardType=github&theme=vue-dark&fontFamily=42dot%20Sans&preferLogin=false)](https://git.io/awesome-stats-card)
   <img src="https://github-readme-stats.vercel.app/api?username=stardust322&show_icons=true&theme=radical" alt="stardust322" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stardust322&show_icons=true&locale=en&layout=compact&theme=radical" alt="stardust322" height="180px" />
 </p>
